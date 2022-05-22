@@ -1,4 +1,4 @@
-# Bootcamp Study Group 
+# Study Group 
 
 ## Members
 
