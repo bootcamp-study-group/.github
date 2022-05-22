@@ -2,4 +2,6 @@
 
 ## Members
 
-- Ryan Raposo @ryanraposo
+- Ryan Raposo [@ryanraposo](github.com/ryanraposo)
+
+*Add your name to this list!*
